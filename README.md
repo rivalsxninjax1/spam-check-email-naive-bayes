@@ -58,3 +58,4 @@ See `requirements.txt` for the dependencies.
 This project is open source and available under the [MIT License](LICENSE).
 
 # spam-check-email-naive-bayes
+# naive-bayes-sales-problem
